@@ -1,10 +1,10 @@
 import './App.css'
-import { HeroPage } from './pages/HeroPage'
+import { MainLayout } from './pages/mainLayout/MainLayout'
 
 function App() {
 
   return (
-   <HeroPage />
+    <MainLayout />
   )
 }
 
